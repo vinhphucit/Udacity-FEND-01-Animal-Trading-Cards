@@ -1,0 +1,46 @@
+/* add your CSS here */
+
+
+
+
+.main {
+    width: 320px;
+    border: solid #ccc 1px;
+    border-radius: 10px;
+  }
+
+.content {
+    width: 300px;
+    margin: 10px;
+    border: solid #ccc 1px;    
+    border-radius: 10px;
+}
+
+.description {
+    padding: 10px;
+}
+
+.hippotitle {
+    padding: 10px;
+}
+
+.hippoimage {
+    width : 300px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.overview {
+    font-style: italic;
+    padding: 10px;   
+}
+
+.nodotlist {
+    list-style: none;
+    padding-left: 10px;
+}
+
+span {
+    
+    font-weight: bold;
+}
